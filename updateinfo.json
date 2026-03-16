@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/CowabungaLabs/autoprinter/releases/download/v1.2.1/cowabunga-autoprinter-setup.exe",
-  "notes": "Improved Whatnot and eBay Live win detection, fixed label sizing for Phomemo M220, removed false positive wins."
+  "version": "1.2.3",
+  "url": "https://www.dropbox.com/scl/fi/uqbx22onh36fo780y5uqs/Cowabunga-Autoprinter-Setup-1.2.3.exe?rlkey=0llhj1eq20jlr2p7a564t1hg3&st=khaft5ua&dl=1",
+  "notes": "Fixed multiple prints bug on WhatNot dashboard."
 }
